@@ -1,2 +1,6 @@
 "# Yazi-Degistirme" 
-https://github.com/nisatas/Yaz-Degistirme/issues/1#issue-2465899231
+
+
+
+https://github.com/user-attachments/assets/abfada05-32c4-4aaf-ba3e-bf10059a3b6a
+
